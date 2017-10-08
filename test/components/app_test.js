@@ -1,5 +1,5 @@
 import { renderComponent, expect } from '../test_helper'
-import App from '../../src/components/app.js'
+import App from '../../src/components/app'
 
 let component = renderComponent(App)
 //use describe for similar tests
